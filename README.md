@@ -1,3 +1,2 @@
 # gitHubTest
-testing Git Hub Clone
-this is another test
+testing Git 
